@@ -1,8 +1,7 @@
 class ArithmeticDemo {
 
     public static void main (String[] args){
-        java.util.ArrayList<String> futureMonths =
-            new java.util.ArrayList<String>();
+     
          int result = 1;
           result +=  2; // result is now 3
          System.out.println(result);
