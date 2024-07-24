@@ -1,3 +1,4 @@
+package mine;
 
 
 class ArrayDemo {

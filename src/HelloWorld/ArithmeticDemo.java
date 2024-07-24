@@ -1,3 +1,4 @@
+package HelloWorld;
 class ArithmeticDemo {
 
     public static void main (String[] args){
